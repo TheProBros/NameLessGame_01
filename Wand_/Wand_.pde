@@ -5,7 +5,8 @@ int b;
 int h;
 float r;
 void setup() {
-  size(displayWidth, displayHeight, P3D);
+  size(1280, 720, P3D);
+  //Hallo Carl!
 }
 
 void draw() {
